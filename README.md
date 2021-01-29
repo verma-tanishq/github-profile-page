@@ -47,7 +47,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 📝 Repository Created [#1](https://github.com/verma-tanishq/HarvardX-CS50W) in [verma-tanishq/HarvardX-CS50W]
+1. 📝 Repository Created [#1](https://github.com/verma-tanishq/HarvardX-CS50W) in [verma-tanishq/HarvardX-CS50W] (https://github.com/verma-tanishq/HarvardX-CS50W) 
 <!--
 2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)

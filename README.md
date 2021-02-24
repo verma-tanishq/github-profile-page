@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tanishq's GitHub Stats" src="https://github-readme-stats.verma-tanishq.vercel.app/api?username=verma-tanishq&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tanishq's GitHub Stats" src="https://github-readme-stats-1-verma-tanishq.vercel.app/api?username=verma-tanishq&show_icons=true&hide_border=true" />
 
 </details>
 

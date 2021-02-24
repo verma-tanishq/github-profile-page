@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tanishq Spotify Playing" width="350" />](https://open.spotify.com/user/t9qsz4y7ioxsorexrcx145140)
+[<img src="http://novatorem-verma-tanishq.vercel.app/api/spotify-playing" alt="Tanishq Spotify Playing" width="350" />](https://open.spotify.com/user/t9qsz4y7ioxsorexrcx145140)
 
 ### Connect with me:
 
